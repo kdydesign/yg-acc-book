@@ -1,6 +1,7 @@
 {
   "rulesFile": "database.rules.json",
   "hosting": {
+    "site": "yg-acc-book",
     "public": "dist",
     "ignore": [
       "firebase.json",
